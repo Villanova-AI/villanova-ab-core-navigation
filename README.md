@@ -1,1 +1,1 @@
-# Entando App Builder Core Navigation
+# Villanova App Builder Core Navigation
